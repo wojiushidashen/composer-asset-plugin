@@ -1,5 +1,5 @@
 {
-    "name": "fxp/composer-asset-plugin",
+    "name": "ezijing/composer-asset-plugin",
     "description": "NPM/Bower Dependency Manager for Composer",
     "keywords": ["npm", "bower", "dependency manager", "package", "asset", "composer", "nodejs"],
     "homepage": "https://github.com/fxpio/composer-asset-plugin",
